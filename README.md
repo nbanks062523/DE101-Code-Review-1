@@ -1,26 +1,33 @@
+# Title
 DE101 CodeReview 1
-Nikisha Banks
-Technologies Used: Python, Git hub, Visual Studio Code 
-Languages and tools are used: Python
 
-Description
+## Name
+Nikisha Banks
+
+## Technologies Used: 
+Python, Git hub, Visual Studio Code
+
+## Languages and tools used: 
+Python
+
+## Description:
 The purpose of this project is to provide a overview of our puppy inventory 
 
-Setup/Installation Requirements
+## Setup/Installation Requirements:
 To run the code in this project:
 1. Clone the repo in Git Hub: 
-   1. Click the green "code" button
-   2. Under the "Local" tab, copy and paste the URL that is under HTTPS
+   a. Click the green "code" button
+   b. Under the "Local" tab, copy and paste the URL that is under HTTPS
 2. In the terminal, activate the virtual environment by typing 
         python3.10 -m venv venv
         source venv/bin/activate
 3. Install the requirements from the requirements.txt file by typing:
         pip install -r requirements.txt
 
-Known Bugs
+## Known Bugs
 No known bugs
 
-License
+## License
 Copyright 2023, Nikisha Banks
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
